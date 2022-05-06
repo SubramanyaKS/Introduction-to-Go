@@ -7,6 +7,7 @@ func main() {
 	//boolean operation
 	fmt.Println(true && true)
 	fmt.Println(true && false)
+	fmt.Println(!true)
 	fmt.Println(true || true)
 	fmt.Println(true || false)
 
