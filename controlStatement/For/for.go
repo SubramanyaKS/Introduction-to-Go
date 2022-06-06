@@ -8,4 +8,8 @@ func main() {
 		fmt.Println(i)
 		i = i + 1
 	}
+	fmt.Print("Annother Method")
+	for i := 1; i <= 10; i++ {
+		fmt.Println(i)
+	}
 }
