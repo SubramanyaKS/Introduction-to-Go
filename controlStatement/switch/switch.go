@@ -4,8 +4,8 @@ import "fmt"
 
 func main() {
 	fmt.Print("Enter a number: ")
-	var input int64
-	fmt.Scanf("%f", &input)
+	var i int64
+	fmt.Scanf("%f", &i)
 	switch i {
 	case 0:
 		fmt.Println("Zero")
