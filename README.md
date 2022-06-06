@@ -6,6 +6,8 @@ Go is a statically typed, compiled programming language designed at Google by Ro
 
 This file contain basic program to learn Go. 
 
+Thanks to Tutorialspoint
+
 
 
 Note: I am currently learning Go language.
